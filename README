@@ -1,0 +1,6 @@
+Test page for nitrogen framework.
+
+Put files: mijk_home_work.erl  mochijson2.erl  mochinum.erl  xmerl_ucs.erl
+into your nitrogen's project "site/src" directory, compile
+
+and try "localhost:8000/mijk/home/work"
